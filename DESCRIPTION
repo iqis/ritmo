@@ -1,0 +1,9 @@
+Package: ritmo
+Type: Package
+Title: Useful Gizmos for Interactive R Use
+Version: 0.1.0
+Author:  person("Siqi", "Zhang", email = "iqis.gnahz@gmail.com", rold = c("aut", "cre"))
+Description: Keep the beat while exploring data, building models, and making graphics with convenient helper functions. 
+License: GPL-3
+Encoding: UTF-8
+LazyData: true
